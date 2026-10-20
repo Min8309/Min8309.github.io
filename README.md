@@ -2,7 +2,12 @@
 
 그림 렌탈·아트테크·아트굿즈 탐색을 제공하는 React 프런트엔드의 기술 분석 문서입니다.
 
+ㅡㅡㅡㅡㅡ
+
+
 ## 발표 자료 다운로드
+
+
 
 - [PPTX 발표 자료](docs/open-gallery-technology.pptx)
 - [PDF 발표 자료](docs/open-gallery-technology.pdf)
